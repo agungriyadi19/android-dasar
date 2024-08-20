@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Anggota ASEAN</string>
+    <string name="myName">Agung Riyadi</string>
+    <string name="Email">iaagungriyadi@gmail.com</string>
+    <string name="country">Country</string>
+    <string name="head_of_state">Head of State</string>
+    <string name="capital">Capital</string>
+    <string name="national_flag">National Flag</string>
+    <string name="language">Language(s)</string>
+    <string name="currency">Currency</string>
+    <string-array name="data_country">
+        <item>Brunei Darussalam</item>
+        <item>Kamboja</item>
+        <item>Indonesia</item>
+        <item>Laos</item>
+        <item>Malaysia</item>
+        <item>Myanmar</item>
+        <item>Filipina</item>
+        <item>Singapura</item>
+        <item>Thailand</item>
+        <item>Vietnam</item>
+    </string-array>
+    <string-array name="data_currency">
+        <item>Dolar Brunei</item>
+        <item>Riel</item>
+        <item>Rupiah</item>
+        <item>Kip</item>
+        <item>Ringgit</item>
+        <item>Kyat</item>
+        <item>Peso</item>
+        <item>Dolar Singapura</item>
+        <item>Baht</item>
+        <item>Dong</item>
+    </string-array>
+
+    <string-array name="data_language">
+        <item>Melayu, Inggris, dan Mandarin</item>
+        <item>Khmer, Perancis, dan Inggris</item>
+        <item>Indonesia</item>
+        <item>Vietnam</item>
+        <item>Melayu</item>
+        <item>Birma</item>
+        <item>Tagalok</item>
+        <item>Inggris</item>
+        <item>Thai</item>
+        <item>Vietnam</item>
+    </string-array>
+    <string-array name="data_capital">
+        <item>Bandar Seri Begawan</item>
+        <item>Phnom Penh</item>
+        <item>Jakarta</item>
+        <item>Vientiane</item>
+        <item>Kuala Lumpur</item>
+        <item>Rangoon</item>
+        <item>Manila</item>
+        <item>Singapura</item>
+        <item>Bangkok</item>
+        <item>Hanoi</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>
+            Iklim: Beriklim tropis dengan kelembaban dan curah hujan tinggi sepanjang tahun.
+            Flora dan Fauna: Sama seperti di wilayah Kalimantan, Indonesia, yaitu vegetasi dan hewan khas dari hutan hujan tropis.
+            Penduduk: Pertumbuhan penduduk mencapai hingga 1,9 persen per tahun. Sebagian besar penduduknya keturunan Melayu, Cina, dan sisanya suku Dayak, Iban, serta Belait. Dominan negara Brunei Darussalam penduduknya beragama Islam, sisanya ialah Buddha, Kristen, dan kepercayaan tradisional.
+        </item>
+        <item>
+            Iklim: Negara Kamboja dipengaruhi oleh iklim tropis musim. Musim hujan jatuh pada bulan April hingga Oktober. Musim kemarau jatuh pada bulan November hingga Mei.
+            Flora dan Fauna: terdapat hutan hujan tropis yang hijau sepanjang tahun. Fauna yang menjadi ciri khas adalah burung blekok, jejang, kuao, belibis, merak, dan itik liar.
+            Penduduk: Tingkat pertumbuhan penduduk 1,8 persen per tahun. Suku bangsa yang paling banyak adalah suku bangsa Khmer, selain itu ada juga kelompok Cina dan Vietnam.
+            Agama yang paling banyak dianut adalah Buddha Theravada, lainnya adalah Buddha Mahayana, katolik, Islam, dan Animisme.
+        </item>
+        <item>
+            Iklim: mempunyai 3 iklim, yakni iklim tropis panas, iklim laut, dan iklim muson yang disebabkan karena angin muson barat umumnya terjadi di antara bulan Oktober hingga April dan angin muson timur yang umumnya terjadi dalam kurun waktu bulan April hingga Oktober.
+            Flora dan fauna: masih memiliki hutan hujan tropis dengan pepohonan yang rapat dan tinggi, hutan sabana, hutan bakau, dan hutan musim.
+            Penduduk: Indonesia merupakan negara ASEAN yang memiliki penduduk banyak dan terdiri atas berbagai suku bangsa, diantaranya yakni suku Aceh, Batak, Melayu, dan Minangkabau yang berada di Pulau Sumatra. Suku bangsa Jawa, Sunda, Badui, dan Tengger berada di Pulau Jawa. Suku bangsa Banjar, Dayak, dan Melayu berada di Pulau Kalimantan. Suku bangsa Toraja, Melayu, dan Manado berada di Pulau Sulawesi. Suku bangsa Asmat dan Serui berada di Pulau Papua. Suku bangsa Sasak, Bali, dan Timor yang berada di pulau Bali dan Nusa Tenggara.
+            Agama yang banyak dianut adalah Islam, Katolik, Kristen, Buddha, Hindu, dan Konghucu.
+        </item>
+        <item>
+            Iklim: Iklim tropis basah dengan dua musim, yaitu musim dingin dan musim panas. Musim panas dengan curah hujan tinggi terjadi pada bulan Mei hingga Oktober dan musim dingin yang kering terjadi sekitar bulan November hingga Februari.
+            Flora dan Fauna: Banyak ditemukanhutan tropis dan hutan musim. Fauna yang ada biasanya panther, macan tutul, gajah, dan harimau.
+            Penduduk: Tingkat pertumbuhan penduduk mencapai hingga 2,3 persen per tahun. Di negara Laos ada 68 etnis yang merupakan campuran imigran dari Cina, Tiber, Thailand, dan Myanmar. Etnis terbesar ialah etnik Lao.
+            Agama yang paling banyak dianut adalah Buddha dan yang lainnya adalah Kristen, Katolik, serta Konghucu.
+        </item>
+        <item>
+            Iklim: Iklim tropis dengan temperatur serta tingkat kelembaban tinggi. Curah hujan yang paling tinggi terjadi sebagai akibat dari pengaruh angin muson timur laut yang bertiup di antara bulan November hingga Maret.
+            Flora dan Fauna: Di Sabah dan Serawak masih ditemukan hutan hujan tropis yang belum dijamah. Jenis fauna yang berasal dari hutan tersebut antara lain gajah, orangutan, babi hutan, harimau, dan macan tutul. Wilayah Sabah dan Serawak merupakan salah satu wilayah populasi burung terbesar di dunia.
+            Penduduk: angka pertumbuhan 2,1 persen per tahun. Negara Malaysia ini sebagian besar penduduk adalah suku Melayu, Cina, Dayak Iban, dan India. Sisanya adalah pendatang dari berbagai negara.
+            Bahasa resmi dari Malaysia adalah bahasa Melayu. Bahasa lainnya, yakni bahasa Inggris.
+            Agama yang paling banyak dianut ialah Islam, lalu Buddha, Tao, Hindu, Kristen, dan agama tradisional.
+        </item>
+        <item>
+            Iklim: Musim hujan jatuh pada bulan Mei hingga Oktober dan musim kemarau pada bulan November hingga Februari, serta musim kemarau yang panas terjadi pada pertengahan bulan Februari hingga Mei.
+            Flora dan Fauna: Flora 50 persen wilayah ditutupi hutan hujan tropis yang ditumbuhi kayu jati, karet, akasia, bambu, kayu besi, bakau, dan kelapa. Di pegunungan utara terdapat hutan subtropis dan hutan iklim sedang yang ditumbuhi pohon pinus, ek, berangan, dan tumbuhan paku.
+            Penduduk: Angka pertumbuhan penduduk 1,4 persen per tahun. Agama yang paling banyak dianut adalah Buddha, lainnya adalah Hindu, Islam, dan Kristen.
+        </item>
+        <item>
+            Iklim: Dipengaruhi oleh iklim musim dengan ciri curah hujan dan temperatur udara dengan rata-rata tinggi. Musim hujan terjadi pada bulan Mei hingga November, sedangkan musim kemarau terjadi pada bulan Desember hingga April. Kerap dilanda angin topan yang berasal dari Samudera Pasifik.
+            Flora dan Fauna: Banyak ditemukan hutan hujan tropis yang ditumbuhi oleh berbagai tumbuahn Asia seperti pohon jati, apitong, banyan, rotan, yakal, launan, ipil, mayapis, dan beraneka jenis anggrek. Untuk fauna, Filipina memiliki hingga sekitar 760 jenis burung termasuk kakatua berwarna.
+            Penduduk: Pertumbuhan penduduk Filipina mencapai hingga 2,2 persen per tahun, sebagian besar bertempat tinggal di Pulau Luzon dan Pulau Cebu. Sebagian besar penduduk Filipina merupakan keturunan Melayu dan Mestizo (keturunan Spanyol).
+            Mayoritas penduduk negara Filipina menganut agama Katolik Roma, agama Islam dianut oleh suku Moro yang berada di Palawan dan Mindanao, sedangkan agama lainnya adalah Buddha, Hindu, Konghucu, dan Animisme.
+        </item>
+        <item>
+            Iklim: Iklim tropis dengan curah hujan, temperatur, dan kelembaban udara tinggi. Musim hujan terjadi dalam kurun waktu September hingga Maret ketika bertiup angin muson timur laut. Musim kemarau biasa terjadi pada bulan April hingga Agustus ketika bertiup angin muson barat daya.
+            Flora dan Fauna: Banyak hutan dan rawa yang sudah ditimbun dengan tanah (direklamasi). Sisa hutan tropis masih ada pada bagian tenggara dan timur laut yang dibuat untuk cagar alam. Fauna yang hidup di Singapura memiliki corak Asia, seperti gajah, kera, dan berbagai jenis reptil.
+            Penduduk: Sebagian besar penduduk Singapura merupakan keturunan Cina, sisanya Melayu, India, Pakistan, dan Eropa.
+            Agama penduduk beragam, yakni Kristen, Islam, Hindu, Tao, Konghuchu, dan Buddha.
+        </item>
+        <item>
+            Iklim: Mempunyai iklim tropis basah yang disebabkan oleh angin musim. Musim hujan terjadi pada bulan April hingga Oktober. Musim kemarau terjadi di bulan November hingga Maret.
+            Flora dan Fauna: Di sepanjang pantai Teluk Siam masih sering ditemukan hutan payau. Hutan dan sabana banyak ditemukan di Plato Korat. Hutan tropis banyak ditemukan akan rotan, kayu besi, bakau, dan eboni. Jenis fauna yang banyak ditemukan antara lain badak, harimau, macan, gajah, kucing siam, kerbau, dan berbagai jenis reptil.
+            Penduduk: Pertumbuhan penduduk mencapai 0,7 persen per tahun. Penduduk asli dari negara Thailand adalah orang Thai, penduduk lainnya merupakan keturunan Cina, Melayu, dan India.
+            Agama yang banyak dianut ialah Buddha, sisanya Islam, Konghucu, Kristen, dan Hindu.
+        </item>
+        <item>
+            Iklim: Negara Vietnam dipengaruhi oleh iklim tropis basah, ditandai dengan temperatur serta curah hujan yang cukup tinggi.
+            Flora dan Fauna: Flora yang ada di Vietnam adalah pinus, bambu, serta tanaman berdaun lebar, dan terdapat hutan mangrove. Faunanya ialah hewan dengan corak Asia.
+            Penduduk: Angka pertumbuhan penduduk mencapai hingga 1,3 persen per tahun. Sebagian besar penduduknya ialah suku Vietnam, sisanya terdiri atas orang Cina, Thai, dan Khmer.
+            Agama yang paling banyak dianut ialah Buddha, lainnya adalah Katolik, Konghucu, dan agama tradisional, yaitu Cao Dai.
+        </item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://asean.org/wp-content/uploads/2020/10/flag_bruneidarussalam.png</item>
+        <item>https://asean.org/wp-content/uploads/2023/08/cambodia1-flag.jpg</item>
+        <item>https://asean.org/wp-content/uploads/2020/10/flag_indonesia.png</item>
+        <item>https://asean.org/wp-content/uploads/2020/10/flag_laodpr.png</item>
+        <item>https://asean.org/wp-content/uploads/2020/10/flag_malaysia.png</item>
+        <item>https://asean.org/wp-content/uploads/2020/10/flag_myanmar.png</item>
+        <item>https://asean.org/wp-content/uploads/2020/10/flag_philippines.png</item>
+        <item>https://asean.org/wp-content/uploads/2020/10/flag_singapore.png</item>
+        <item>https://asean.org/wp-content/uploads/2020/10/flag_thailand.png</item>
+        <item>https://asean.org/wp-content/uploads/2020/10/flag_vietnam.png</item>
+    </string-array>
+</resources>
